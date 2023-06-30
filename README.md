@@ -41,11 +41,12 @@ Scripts can be downloaded from `scripts` folder and viewed using jupyterlab or j
 
 ![Delta-, Alpha-proteobacteria MTB profile across lakes and ponds](./static/Alpha_Delta_distribution_abundance_across_26_lake_time_group.svg)
 
-*Delta-, Alpha-proteobacteria MTB profile across lakes and ponds in the northern hemisphere*
+*<p style="text-align: center;">Delta-, Alpha-proteobacteria MTB profile across lakes and ponds in the northern hemisphere</p>*
+
 
 ![Delta-, Alpha-proteobacteria MTB niche differentiation schematic model](./static/alpha_delta_metabolic_model.svg)
 
-*Delta-, Alpha-proteobacteria MTB niche differentiation schematic model*
+*<p style="text-align: center;">Delta-, Alpha-proteobacteria MTB niche differentiation schematic model</p>*
 
 ---
 ## **Contact**
