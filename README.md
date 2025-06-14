@@ -29,7 +29,7 @@ Custom codes used in data processing are deposited in **`scripts`** folder.
 
 <!-- ![Delta-, Alpha-proteobacteria MTB profile across lakes and ponds](./static/Distribution_and_abundance_profile.svg) -->
 
-*<p style="text-align: center;">Distribution and abundance profile of MGC-containing Alphaproteobacteria and Deltaproteobacteria across 26 lake-time groups</p>*
+*<p align="center">Distribution and abundance profile of MGC-containing Alphaproteobacteria and Deltaproteobacteria across 26 lake-time groups</p>*
 
 <p align="center">
   <img src="./static/Conceptual_model.svg" alt="Description of the figure" width="600">
@@ -38,7 +38,7 @@ Custom codes used in data processing are deposited in **`scripts`** folder.
 
 <!-- ![Conceptual model](./static/Conceptual_model.svg) -->
 
-*<p style="text-align: center;">Conceptual model of carbon, nitrogen, and sulfur cycling driven by dominant MTB (Deltaproteobacteria and Alphaproteobacteria) members near the oxygen-stratified water column</p>*
+*<p align="center">Conceptual model of carbon, nitrogen, and sulfur cycling driven by dominant MTB (Deltaproteobacteria and Alphaproteobacteria) members near the oxygen-stratified water column</p>*
 
 ---
 ## **Citation**
