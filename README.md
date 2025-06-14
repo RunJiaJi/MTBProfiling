@@ -1,5 +1,5 @@
 # **MTB Profiling**
-This repository contains the codes and scripts used in processing the **metagenomic data** and the downstream **global distribution and abundance analysis** of magnetotactic bacteria (MTB). The goal of this repository is to enable data sharing and facilitate genomic-based MTB research.
+This repository contains scripts used in processing the **metagenomic data** for **global distribution and abundance analysis** of magnetotactic bacteria (MTB). The goal of this repository is to enable data sharing and facilitate genomic-based MTB research.
 
 For now (*until 2025/03/14*), one project is included in this repository.
 
