@@ -4,11 +4,10 @@ This repository contains scripts used in processing the **metagenomic data** for
 For now (*until 2025/03/14*), one project is included in this repository.
 
 ## **Contents**
-- [Codes and scripts](#Codes-and-scripts)
-- [Usage](#usage)
+- [Scripts](#Scripts)
 - [Projects](#Projects)
     - [Magnetosome gene cluster containing bacteria in oxygen-stratified freshwater ecosystems of northern landscapes](#MTB-Profiling-in-Freshwater-Environments-of-Northern-Hemisphere)
-- [Contact](#contact)
+- [Citation](#Citation)
 
 ## **Scripts**
 
