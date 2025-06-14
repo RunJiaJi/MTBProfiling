@@ -6,7 +6,7 @@ For now (*until 2025/03/14*), one project is included in this repository.
 ## **Contents**
 - [Scripts](#Scripts)
 - [Projects](#Projects)
-    - [Magnetosome gene cluster containing bacteria in oxygen-stratified freshwater ecosystems of northern landscapes](#MTB-Profiling-in-Freshwater-Environments-of-Northern-Hemisphere)
+    - [Magnetosome gene cluster containing bacteria in oxygen-stratified freshwater ecosystems of northern landscapes](#Magnetosome-gene-cluster-containing-bacteria-in-oxygen-stratified-freshwater-ecosystems-of-northern-landscapes)
 - [Citation](#Citation)
 
 ## **Scripts**
